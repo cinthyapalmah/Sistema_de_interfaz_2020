@@ -1,0 +1,47 @@
+header{
+    background-color: chartreuse;
+    padding: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+
+p{
+    color: slategrey;
+    font-size: 20px;
+}
+
+
+nav{
+    background-color: thistle;
+    color: black;
+    text-align: center;
+}
+
+
+.clear{
+    clear: both;
+}
+
+
+article{
+    background-color: aqua;
+    width: 65%;
+    float: left;
+}
+
+
+aside{
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 35%;
+    float: right;
+    height: 100%;
+}
+
+
+footer{
+    background-color: blue;
+    height: 200px;
+}
